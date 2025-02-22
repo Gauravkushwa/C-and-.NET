@@ -1,0 +1,15 @@
+C:\Users\Gaurav Kushwaha\C-and-.NET\.net opps Assignment3\bin\Debug\net9.0\.net opps Assignment3.exe
+C:\Users\Gaurav Kushwaha\C-and-.NET\.net opps Assignment3\bin\Debug\net9.0\.net opps Assignment3.deps.json
+C:\Users\Gaurav Kushwaha\C-and-.NET\.net opps Assignment3\bin\Debug\net9.0\.net opps Assignment3.runtimeconfig.json
+C:\Users\Gaurav Kushwaha\C-and-.NET\.net opps Assignment3\bin\Debug\net9.0\.net opps Assignment3.dll
+C:\Users\Gaurav Kushwaha\C-and-.NET\.net opps Assignment3\bin\Debug\net9.0\.net opps Assignment3.pdb
+C:\Users\Gaurav Kushwaha\C-and-.NET\.net opps Assignment3\obj\Debug\net9.0\.net opps Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaurav Kushwaha\C-and-.NET\.net opps Assignment3\obj\Debug\net9.0\.net opps Assignment3.AssemblyInfoInputs.cache
+C:\Users\Gaurav Kushwaha\C-and-.NET\.net opps Assignment3\obj\Debug\net9.0\.net opps Assignment3.AssemblyInfo.cs
+C:\Users\Gaurav Kushwaha\C-and-.NET\.net opps Assignment3\obj\Debug\net9.0\.net opps Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav Kushwaha\C-and-.NET\.net opps Assignment3\obj\Debug\net9.0\.net opps Assignment3.sourcelink.json
+C:\Users\Gaurav Kushwaha\C-and-.NET\.net opps Assignment3\obj\Debug\net9.0\.net opps Assignment3.dll
+C:\Users\Gaurav Kushwaha\C-and-.NET\.net opps Assignment3\obj\Debug\net9.0\refint\.net opps Assignment3.dll
+C:\Users\Gaurav Kushwaha\C-and-.NET\.net opps Assignment3\obj\Debug\net9.0\.net opps Assignment3.pdb
+C:\Users\Gaurav Kushwaha\C-and-.NET\.net opps Assignment3\obj\Debug\net9.0\.net opps Assignment3.genruntimeconfig.cache
+C:\Users\Gaurav Kushwaha\C-and-.NET\.net opps Assignment3\obj\Debug\net9.0\ref\.net opps Assignment3.dll
